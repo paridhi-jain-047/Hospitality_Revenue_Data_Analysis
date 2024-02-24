@@ -1,7 +1,7 @@
 # Hospitality_Revenue_Data_Analysis
 An interactive Data Analysis of Atliq Mart realtime dataset
 
-<img width="559" alt="image" src="https://github.com/paridhi-jain-047/Hospitality_Revenue_Data_Analysis/assets/60234084/3d660e49-2f43-457c-a0c4-8bbd999bcaac">
+<img width="850" alt="image" src="https://github.com/paridhi-jain-047/Hospitality_Revenue_Data_Analysis/assets/60234084/3d660e49-2f43-457c-a0c4-8bbd999bcaac">
 
 ## Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
